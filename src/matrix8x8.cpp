@@ -319,7 +319,7 @@ void MAX7219::Matrix8x8::printScrollArray(uint8_t * _ari,uint8_t _speed, int8_t 
       }
     }
     
-    printScrollDisplay(0);
+    printScrollDisplay(_invert);
    
     for(int k=0;k<8;k++) 
     {

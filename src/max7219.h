@@ -53,7 +53,6 @@ namespace MAX7219
 
     public:
     Matrix8x8(uint8_t _displaySize=1);
-    
     void displayTest(uint16_t _time);
     void writeByte(uint64_t _byte, int8_t _row=0, int8_t _shift=0, int8_t _invert=0);
     void writeArray(char * _array, int8_t _shift=0, char _inversetion='n', int8_t _invert=0, uint8_t _offset=0);

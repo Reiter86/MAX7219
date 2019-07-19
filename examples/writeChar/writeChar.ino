@@ -1,4 +1,4 @@
-#include "max7219.h"
+#include <max7219.h>
 
 
 //Create an object from Matrix8x8 with 4 8x8-Matrix fields
