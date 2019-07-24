@@ -1,6 +1,6 @@
 # **[MAX7219](https://datasheets.maximintegrated.com/en/ds/MAX7219-MAX7221.pdf)** **-** **[LED-MATRIX](https://www.amazon.de/dp/B07BRTCBLQ/ref=psdc_1626220031_t1_B06XJ9ZX17)** **-** **[7Segment](https://www.amazon.de/dp/B07D8ZC7Q3/ref=sspa_dk_detail_0?psc=1&pd_rd_i=B07D8ZC7Q3&pd_rd_w=3xZVd&pf_rd_p=493495a8-6974-49af-bd47-5bd55a278ea6&pd_rd_wg=mQ2AX&pf_rd_r=44JDFMB533WF6GQVD0NZ&pd_rd_r=3ba73304-9fde-11e9-ac76-613fa6a17ff6)**
 
-![Travis (.com)](https://img.shields.io/travis/com/Reiter86/Test.svg?style=for-the-badge&colorA=000000)
+![Travis (.com)](https://img.shields.io/travis/com/Reiter86/MAX7219.svg?style=for-the-badge&colorA=000000)
 ![GitHub release](https://img.shields.io/github/release/Reiter86/MAX7219.svg?style=for-the-badge&label=version&colorB=15afd1&colorA=000000)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Reiter86/MAX7219.svg?style=for-the-badge&colorB=abd115&colorA=000000)
 ![GitHub All Releases](https://img.shields.io/github/downloads/Reiter86/MAX7219/total.svg?style=for-the-badge&colorB=d11589&colorA=000000)
